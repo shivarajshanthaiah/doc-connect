@@ -1,6 +1,6 @@
 # Go doconnect
 
-This project is of Doctor Management System where users/patients can do the booking of thier consultaion with respective doctor. The backend project is implemented in Go language using the Gin web framework, PostgreSQL for data storage, Redis for caching, Twilio for SMS OTP verificaton, Razorpay for payment processing, SMTP for email notifications, Gomail for email notification with PDF attachment and GORM as the ORM.
+This project is of Doctor Management System where users/patients can do the booking of thier consultation with respective doctor. The backend project is implemented in Go language using the Gin web framework, PostgreSQL for data storage, Redis for caching, Twilio for SMS OTP verificaton, Razorpay for payment processing, SMTP for email notifications, Gomail for email notification with PDF attachment and GORM as the ORM.
 
 ## Live Demo
 
